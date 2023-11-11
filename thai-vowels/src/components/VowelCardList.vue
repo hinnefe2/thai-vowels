@@ -127,13 +127,13 @@ export default defineComponent({
   font-family: 'Noto Sans Thai Looped', 'Noto Serif Thai', sans-serif !important;
 }
 button.pronunciation {
-  border: 1px solid var(--color-border);
+  border: 1px solid rgba(60, 60, 60, 0.12);
   border-radius: 8px;
   padding: 0.5rem 0.8rem;
   background: #d4e7ca;
   font-size: 1.2rem;
   font-weight: 500;
-  color: var(--color-text);
+  color: #2c3e50;
   transition: all 0.2s ease;
 }
 </style>

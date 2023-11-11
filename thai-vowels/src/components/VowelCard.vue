@@ -21,13 +21,13 @@ export default defineComponent({
 
 <style scoped>
 .vowel-card {
-  border: 1px solid var(--color-border);
+  border: 1px solid rgba(60, 60, 60, 0.12);
   border-radius: 8px;
   padding: 0.5rem 0.8rem;
-  background: var(--color-background);
+  background: #ffffff;
   font-size: 1.2rem;
   font-weight: 500;
-  color: var(--color-text);
+  color: #2c3e50;
   transition: all 0.2s ease;
 }
 </style>
