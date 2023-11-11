@@ -1,0 +1,17 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+  font-family: 'Noto Sans Thai Looped', sans-serif;
+  font-family: 'Noto Serif Thai', serif;
+  background-color: #cbd4db;
+}
+
+.green {
+  text-decoration: none;
+  color: rgba(24, 160, 88, 0.16);
+  transition: 0.4s;
+}
